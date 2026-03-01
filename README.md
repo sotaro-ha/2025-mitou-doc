@@ -11,7 +11,7 @@
 
 テレプレゼンス技術を個人向けにカスタマイズできるロボットプラットフォームを開発しています。ユーザが立方体モジュール（ディスプレイ、アクチュエータ、移動、センサの機能をもつ）を組み合わせて自由に設計可能にする取り組みです。独自のリズムベース動作生成アルゴリズムにより、人体にない身体構造の動きも再現できます。
 
-- **GitHub:** [qubi-robot / qubi](https://github.com/qubi-robot/qubi)
+- **GitHub:** [katakko-robots](https://github.com/katakko-robots)
 
 ## ライセンス
 
